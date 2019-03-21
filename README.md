@@ -17,8 +17,9 @@ GO IDE | Liteide
 
 [chick here to know more](https://github.com/hfg123/GoLang/tree/master/Basics)
 
->简介
+#### 简介
    
-  >> 1.This folder is built on the basis of go language and is about the general usage of go language.
-  >>> 2., such as data type: input/output:iterator iota; Loop statements: and a few caveats.
+>1.This folder is built on the basis of go language and is about the general usage of go language.
+
+>2.such as data type: input/output:iterator iota; Loop statements: and a few caveats.
 
