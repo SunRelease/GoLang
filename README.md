@@ -13,9 +13,9 @@ GO IDE | Liteide
 
 
   
-### Basics
+## **Basics**
 
-[chick here to know more](https://github.com/hfg123/GoLang/tree/master/Basics)
+### [chick here to know more](https://github.com/hfg123/GoLang/tree/master/Basics)
 
 #### 简介
    
